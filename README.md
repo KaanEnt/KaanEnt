@@ -1,16 +1,16 @@
 # Hi there, I'm Kaan 👋
 
-### 🚀 Data Engineer | Data Scientist | Software Developer
+## 🚀 Data Engineer | Data Scientist | Software Developer
 
 Welcome to my GitHub profile! I am passionate about developing solutions for data analytics, automation, and business process management. I have a strong foundation in both theoretical and practical aspects of data engineering and science, with experience in developing and optimizing data pipelines, machine learning models, and business process automation.
 
-### 📊 My GitHub Stats 
+## 📊 My GitHub Stats 
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=KaanEnt&theme=dark)](https://git.io/streak-stats)
 
 ![My Recent Activity](https://github-readme-activity-graph.vercel.app/graph?username=KaanEnt&theme=react-dark&hide_border=true&area=true)
 
-### 📊 Weekly Development Breakdown
+## 📊 Weekly Development Breakdown
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-12%20hrs%2039%20mins-blue)
 
@@ -18,8 +18,7 @@ Welcome to my GitHub profile! I am passionate about developing solutions for dat
  Last Updated on 24/09/2024 21:48:32 UTC
 <!--END_SECTION:waka-->
 
-### ✨ Summary of Skills
-## 🛠️ Skills
+## ✨ Summary of Skills
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
@@ -64,14 +63,14 @@ Welcome to my GitHub profile! I am passionate about developing solutions for dat
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-FF61F6?style=flat&logo=adobe-xd&logoColor=white)
 
-### 💼 Current Position
+## 💼 Current Position
 - **Data Scientist, Masraff International**  
   *2024 Jul – Present | New York, United States*  
   - Fine-tuned LLMs for better prompt recognition to enhance user experience.
   - Conducted R&D on visual development, particularly for Time Series analysis.
   - Developed and optimized backend architectures for high-performance data pipelines in an expense management environment.
 
-### 🛠 Recent Projects
+## 🛠️ Recent Projects
 - **KubeFlow: Dynamic CI/CD Orchestration**  
   *Kubernetes - Python - Docker - Minikube - GitHub Actions - YAML*  
   - Constructed a full CI/CD pipeline using integrated fragmented blueprints for a cohesive backend system.
@@ -83,17 +82,17 @@ Welcome to my GitHub profile! I am passionate about developing solutions for dat
   - Improved existing regression models to enhance the accuracy and efficiency of the image recognition process.
   - The use of deep learning techniques allowed for more accurate identification and categorization of complex image data.
 
-### 📚 Education
+## 📚 Education
 - **Honours Bachelor's of Science in Applied Mathematics, University of Ottawa**  
   *Ottawa, ON, Canada*
 - **Bachelor's in Computer Science (Data Science), University of Ottawa**  
   *Ottawa, ON, Canada*
 
-### 🌱 Currently Learning
+## 🌱 Currently Learning
 - Advanced Data Engineering concepts and cloud data platforms.
 - Enhancing skills in distributed data systems and data pipeline optimization.
 
-### 🔗 Let's Connect!
+## 🔗 Let's Connect!
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kaan-un/)
 - [![GitHub Portfolio](https://img.shields.io/badge/GitHub-Portfolio-green?style=for-the-badge&logo=github&logoColor=white)](https://kaanent.github.io/)
 - 📧 [Email Me](mailto:unkaanenterprise@gmail.com)
