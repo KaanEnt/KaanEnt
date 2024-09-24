@@ -4,11 +4,15 @@
 
 Welcome to my GitHub profile! I am passionate about developing solutions for data analytics, automation, and business process management. I have a strong foundation in both theoretical and practical aspects of data engineering and science, with experience in developing and optimizing data pipelines, machine learning models, and business process automation.
 
-### 🔥 My GitHub Stats
+### 📊 My GitHub Stats 
 
-![Kaan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=KaanEnt&show_icons=true&theme=dark&hide=stars,contribs)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=KaanEnt&theme=dark)](https://git.io/streak-stats)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KaanEnt&layout=compact&theme=dark)
+![My Recent Activity](https://github-readme-activity-graph.vercel.app/graph?username=KaanEnt&theme=react-dark&hide_border=true&area=true)
+
+### 📊 Weekly Development Breakdown
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 ### ✨ Summary of Skills
 - **Programming Languages:** Python, SQL, Java, R, JavaScript, HTML/CSS, C, C#, PHP, Kotlin, Rust, Ruby
