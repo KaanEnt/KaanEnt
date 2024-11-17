@@ -98,7 +98,7 @@ Welcome to my GitHub profile! I am passionate about developing solutions for dat
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kaan-un/)
 - [![GitHub Portfolio](https://img.shields.io/badge/GitHub-Portfolio-green?style=for-the-badge&logo=github&logoColor=white)](https://kaanent.github.io/)
 - [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/KaanEnt)
-- 📧 [Email Me](mailto:unkaanenterprise@gmail.com)
+- [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:unkaanenterprise@gmail.com)
 
 ---
 
