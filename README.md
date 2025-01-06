@@ -102,9 +102,9 @@ Welcome to my GitHub profile! I am passionate about developing solutions for dat
 
 ## 📚 Education
 - **Honours Bachelor's of Science in Applied Mathematics, University of Ottawa**  
-  *Ottawa, ON, Canada*
+  *Ottawa, ON, Canada* (Ongoing)
 - **Bachelor's in Computer Science (Data Science), University of Ottawa**  
-  *Ottawa, ON, Canada*
+  *Ottawa, ON, Canada* (Ongoing)
 
 ## 🌱 Currently Learning
 - Advanced Data Engineering concepts and cloud data platforms.
