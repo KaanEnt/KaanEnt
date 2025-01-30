@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I am passionate about developing solutions for dat
 
 ## 📊 My GitHub Stats 
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=KaanEnt&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=KaanEnt&theme=dark)](https://git.io/streak-stats)
 
 ![My Recent Activity](https://github-readme-activity-graph.vercel.app/graph?username=KaanEnt&theme=react-dark&hide_border=true&area=true)
 
