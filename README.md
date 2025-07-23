@@ -10,7 +10,7 @@ Welcome to my GitHub profile! I am passionate about developing solutions for dat
 
 ![My Recent Activity](https://github-readme-activity-graph.vercel.app/graph?username=KaanEnt&theme=react-dark&hide_border=true&area=true)
 
-## 📊 Monthly Development Breakdown
+## 📊 Yearly Development Breakdown
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-398%20hrs%2011%20mins-blue)
 
