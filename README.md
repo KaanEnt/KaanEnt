@@ -83,8 +83,8 @@ Welcome to my GitHub profile! I am passionate about developing solutions for dat
 
 ## 💼 Current Position
 - **Data Scientist, Masraff International**  
-  *2024 Jul – Present | New York, United States*  
-  - Fine-tuned LLMs for better prompt recognition to enhance user experience.
+  *2024 Jul – 2025 Mar | New York, United States*  
+  - Fine-tuned AI Models to enhance user experience.
   - Conducted R&D on visual development, particularly for Time Series analysis.
   - Developed and optimized backend architectures for high-performance data pipelines in an expense management environment.
 
