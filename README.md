@@ -12,10 +12,8 @@ Welcome to my GitHub profile! I am passionate about developing solutions for dat
 
 ## 📊 Yearly Development Breakdown
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-548%20hrs%2026%20mins-blue)
 
-
- Last Updated on 03/11/2025 01:24:49 UTC
+ Last Updated on 03/11/2025 12:39:14 UTC
 <!--END_SECTION:waka-->
 
 ## ✨ Summary of Skills
