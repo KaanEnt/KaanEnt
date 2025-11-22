@@ -67,10 +67,8 @@ Welcome to my GitHub profile! I am passionate about developing solutions for dat
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat&logo=Arduino&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
 
 
@@ -79,7 +77,7 @@ Welcome to my GitHub profile! I am passionate about developing solutions for dat
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat&logo=canva&logoColor=white)
 ![Inkscape](https://img.shields.io/badge/Inkscape-000000?style=flat&logo=inkscape&logoColor=white)
 
-## 💼 Current Position
+## 💼 Previous Position
 - **Data Scientist, Masraff International**  
   *2024 Jul – 2025 Mar | New York, United States*  
   - Fine-tuned AI Models to enhance user experience.
@@ -105,8 +103,8 @@ Welcome to my GitHub profile! I am passionate about developing solutions for dat
   *Ottawa, ON, Canada* (Ongoing, Senior Year)
 
 ## 🌱 Currently Learning
-- Advanced Data Engineering concepts and cloud data platforms.
-- Enhancing skills in distributed data systems and data pipeline optimization.
+- RL Environments
+- Claude Skills
 
 ## 🔗 Let's Connect!
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kaan-un/)
