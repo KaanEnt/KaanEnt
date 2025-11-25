@@ -84,6 +84,10 @@ Welcome to my GitHub profile! I am passionate about developing solutions for dat
   - Conducted R&D on visual development, particularly for Time Series analysis.
   - Developed and optimized backend architectures for high-performance data pipelines in an expense management environment.
 
+## ⚡⚡⚡ Intensity Graph
+
+![GitHub Contributions](https://gh-heat.anishroy.com/api/KaanEnt/svg?theme=red&darkMode=true&cellSize=15)
+
 ## 🛠️ Recent Projects
 - **KubeFlow: Dynamic CI/CD Orchestration**  
   *Kubernetes - Python - Docker - Minikube - GitHub Actions - YAML*  
