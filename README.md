@@ -6,8 +6,11 @@ Welcome to my GitHub profile! I am passionate about developing solutions for dat
 
 ## 📊 My GitHub Stats 
 
-[![GitHub Streak](https://github-readme-beta-rouge.vercel.app?user=KaanEnt&theme=dark&ring=FF0000&fire=FF0000&currStreakNum=FF0000&sideNums=FF0000&currStreakLabel=FF0000&sideLabels=FFFFF&dates=FFFFF&border=FF0000&stroke=FF0000)](https://github-readme-beta-rouge.vercel.app?user=KaanEnt&theme=dark&ring=FF0000&fire=FF0000&currStreakNum=FF0000&sideNums=FF0000&currStreakLabel=FF0000&sideLabels=FFFFF&dates=FFFFF&border=FF0000&stroke=FF0000)
-
+<p align="center">
+  <a href="https://github-readme-beta-rouge.vercel.app?user=KaanEnt&theme=dark&ring=FF0000&fire=FF0000&currStreakNum=FF0000&sideNums=FF0000&currStreakLabel=FF0000&sideLabels=FFFFF&dates=FFFFF&border=FF0000&stroke=FF0000">
+    <img src="https://github-readme-beta-rouge.vercel.app?user=KaanEnt&theme=dark&ring=FF0000&fire=FF0000&currStreakNum=FF0000&sideNums=FF0000&currStreakLabel=FF0000&sideLabels=FFFFF&dates=FFFFF&border=FF0000&stroke=FF0000" />
+  </a>
+</p>
 
 ![My Recent Activity](https://github-readme-activity-graph.vercel.app/graph?username=KaanEnt&theme=react-dark&hide_border=true&area=true&line=FF0000&point=FF0000&area_color=FF0000&color=FF0000)
 
