@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I am passionate about developing solutions for dat
 
 ## 📊 My GitHub Stats 
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=KaanEnt&theme=dark&ring=FF0000&fire=FF0000&currStreakNum=FF0000&sideNums=FF0000&currStreakLabel=FF0000&sideLabels=FFFFF&dates=FFFFF&border=FF0000&stroke=FF0000)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=KaanEnt&theme=dark&ring=FF0000&fire=FF0000&currStreakNum=FF0000&sideNums=FF0000&currStreakLabel=FF0000&sideLabels=FFFFF&dates=FFFFF&border=FF0000&stroke=FF0000)](https://github.com/KaanEnt)
 
 
 ![My Recent Activity](https://github-readme-activity-graph.vercel.app/graph?username=KaanEnt&theme=react-dark&hide_border=true&area=true&line=FF0000&point=FF0000&area_color=FF0000&color=FF0000)
@@ -18,6 +18,7 @@ Welcome to my GitHub profile! I am passionate about developing solutions for dat
 
  Last Updated on 25/11/2025 12:38:53 UTC
 <!--END_SECTION:waka-->
+
 
 ## ⚡⚡⚡ Intensity Graph
 
