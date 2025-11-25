@@ -6,17 +6,21 @@ Welcome to my GitHub profile! I am passionate about developing solutions for dat
 
 ## 📊 My GitHub Stats 
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=KaanEnt&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=KaanEnt&theme=dark)](https://git.io/streak-stats)
 
-![My Recent Activity](https://github-readme-activity-graph.vercel.app/graph?username=KaanEnt&theme=react-dark&hide_border=true&area=true)
+![My Recent Activity](https://github-readme-activity-graph.vercel.app/graph?username=KaanEnt&theme=react-dark&hide_border=true&area=true&line=FF0000&point=FF0000&area_color=FF0000&color=FF0000)
 
 ## 📊 Yearly Development Breakdown
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-579%20hrs%2021%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-579%20hrs%2021%20mins-darkred)
 
 
  Last Updated on 25/11/2025 12:38:53 UTC
 <!--END_SECTION:waka-->
+
+## ⚡⚡⚡ Intensity Graph
+
+![GitHub Contributions](https://gh-heat.anishroy.com/api/KaanEnt/svg?theme=red&darkMode=true&cellSize=15)
 
 ## ✨ Summary of Skills
 
@@ -83,10 +87,6 @@ Welcome to my GitHub profile! I am passionate about developing solutions for dat
   - Fine-tuned AI Models to enhance user experience.
   - Conducted R&D on visual development, particularly for Time Series analysis.
   - Developed and optimized backend architectures for high-performance data pipelines in an expense management environment.
-
-## ⚡⚡⚡ Intensity Graph
-
-![GitHub Contributions](https://gh-heat.anishroy.com/api/KaanEnt/svg?theme=red&darkMode=true&cellSize=15)
 
 ## 🛠️ Recent Projects
 - **KubeFlow: Dynamic CI/CD Orchestration**  
