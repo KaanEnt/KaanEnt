@@ -1,8 +1,14 @@
 # Hi there, I'm Kaan 👋
 
-## 🚀 Data Engineer | Data Scientist | Software Developer
+## 🚀 AI Engineer | Data Scientist | Full Stack Developer
 
-Welcome to my GitHub profile! I am passionate about developing solutions for data analytics, automation, and business process management. I have a strong foundation in both theoretical and practical aspects of data engineering and science, with experience in developing and optimizing data pipelines, machine learning models, and business process automation.
+Full stack developer shipping production LLM systems, smart contracts, and market prediction models.
+
+Currently: Deploying multi-agent AI workflows for real-world automation | Training quantitative models on news sentiment and social signals | Organizing Ontario Founder Communities | Building tools that don't exist yet.
+
+Data engineering at scale (sort of)
+
+I ship products. Always working on 3-5 projects simultaneously because that's how breakthroughs happen. Open to collaborating on ambitious technical challenges.
 
 ## 📊 My GitHub Stats 
 
