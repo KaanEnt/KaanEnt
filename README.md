@@ -4,7 +4,7 @@
 
 Full stack developer shipping production LLM systems, smart contracts, and market prediction models.
 
-Currently: Deploying multi-agent AI workflows for real-world automation | Training quantitative models on news sentiment and social signals | Organizing Ontario Founder Communities | Building tools that don't exist yet.
+Currently: Deploying multi agent AI workflows for real world automation | Training quantitative models on news sentiment and social signals | Organizing Ontario Founder Communities | Building tools that don't exist yet.
 
 Data engineering at scale (sort of)
 
@@ -97,7 +97,7 @@ I ship products. Always working on 3-5 projects simultaneously because that's ho
   *2024 Jul – 2025 Mar | New York, United States*  
   - Fine-tuned AI Models to enhance user experience.
   - Conducted R&D on visual development, particularly for Time Series analysis.
-  - Developed and optimized backend architectures for high-performance data pipelines in an expense management environment.
+  - Developed and optimized backend architectures for high performance data pipelines in an expense management environment.
 
 ## 🛠️ Recent Projects
 - **KubeFlow: Dynamic CI/CD Orchestration**  
