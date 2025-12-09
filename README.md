@@ -95,7 +95,7 @@ I ship products. Always working on 3-5 projects simultaneously because that's ho
 ## 💼 Previous Position
 - **Data Scientist, Masraff International**  
   *2024 Jul – 2025 Mar | New York, United States*  
-  - Fine-tuned AI Models to enhance user experience.
+  - Finetuned AI Models to enhance user experience.
   - Conducted R&D on visual development, particularly for Time Series analysis.
   - Developed and optimized backend architectures for high performance data pipelines in an expense management environment.
 
@@ -118,6 +118,8 @@ I ship products. Always working on 3-5 projects simultaneously because that's ho
   *Ottawa, ON, Canada* (Ongoing, Senior Year)
 
 ## 🌱 Currently Learning
+- Quant Finance
+- LLM Memory Layer
 - RL Environments
 - Claude Skills
 
