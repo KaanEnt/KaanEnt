@@ -130,4 +130,4 @@ I ship products. Always working on 3-5 projects simultaneously because that's ho
 
 ---
 
-Feel free to explore my repositories and don't hesitate to reach out if you'd like to collaborate!
+Reach out, you might find out about new tech/gtm events in your area.
