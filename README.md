@@ -13,8 +13,8 @@ I ship products. Always working on 3-5 projects simultaneously because that's ho
 ## 📊 My GitHub Stats 
 
 <p align="center">
-  <a href="https://github-readme-beta-rouge.vercel.app?user=KaanEnt&theme=dark&ring=FF0000&fire=FF0000&currStreakNum=FF0000&sideNums=FF0000&currStreakLabel=FF0000&sideLabels=FFFFF&dates=FFFFF&border=FF0000&stroke=FF0000">
-    <img src="https://github-readme-beta-rouge.vercel.app?user=KaanEnt&theme=dark&ring=FF0000&fire=FF0000&currStreakNum=FF0000&sideNums=FF0000&currStreakLabel=FF0000&sideLabels=FFFFF&dates=FFFFF&border=FF0000&stroke=FF0000" />
+  <a href="https://github-readme-beta-rouge.vercel.app?user=KaanEnt&theme=dark&ring=FF0000&fire=FF0000&currStreakNum=FF0000&sideNums=FF0000&currStreakLabel=FF0000&sideLabels=FFFFF&dates=FFFFF&border=FF0000&stroke=FF0000&bg_color=00000000">
+    <img src="https://github-readme-beta-rouge.vercel.app?user=KaanEnt&theme=dark&ring=FF0000&fire=FF0000&currStreakNum=FF0000&sideNums=FF0000&currStreakLabel=FF0000&sideLabels=FFFFF&dates=FFFFF&border=FF0000&stroke=FF0000&bg_color=00000000" />
   </a>
 </p>
 
@@ -31,7 +31,7 @@ I ship products. Always working on 3-5 projects simultaneously because that's ho
 
 ## ⚡⚡⚡ Intensity Graph
 
-![GitHub Contributions](https://gh-heat.anishroy.com/api/KaanEnt/svg?theme=red&darkMode=true&cellSize=15)
+![GitHub Contributions](https://gh-heat.anishroy.com/api/KaanEnt/svg?theme=red&darkMode=true&cellSize=15&bg_color=00000000)
 
 ## ✨ Summary of Skills
 
