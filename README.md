@@ -31,7 +31,7 @@ I ship products. Always working on 3-5 projects simultaneously because that's ho
 
 ## ⚡⚡⚡ Intensity Graph
 
-![GitHub Contributions](https://gh-heat.anishroy.com/api/KaanEnt/svg?theme=red&darkMode=true&cellSize=15&bg_color=00000000)
+![GitHub Contributions](https://gh-heat.anishroy.com/api/KaanEnt/svg?theme=red&darkMode=true&cellSize=15&transparency=true)
 
 ## ✨ Summary of Skills
 
