@@ -128,6 +128,8 @@ I ship products. Always working on 3-5 projects simultaneously because that's ho
 - [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/KaanEnt)
 - [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:unkaanenterprise@gmail.com)
 
+https://raw.githubusercontent.com/KaanEnt/QR_Test/refs/heads/main/output/qr_animated.gif
+
 ---
 
 Reach out, you might find out about new tech/gtm events in your area.
