@@ -128,7 +128,7 @@ I ship products. Always working on 3-5 projects simultaneously because that's ho
   <h3>Click Me!</h3>
   
   <a href="https://www.linkedin.com/in/kaan-un?fromQR=1" target="_blank">
-    <img src="https://raw.githubusercontent.com/KaanEnt/QR_Test/main/output/qr_animated.gif" alt="LinkedIn" width="150" />
+    <img src="https://github.com/KaanEnt/QR_Test/main/output/qr_animated.gif" alt="LinkedIn" width="150" />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   
