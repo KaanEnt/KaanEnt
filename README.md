@@ -126,27 +126,12 @@ I ship products. Always working on 3-5 projects simultaneously because that's ho
 ## 🔗 Let's Connect!
 
 <div align="center">
-<h3>Click Me!</h3>
-
-<table align="center">
-<tr>
-
-<td align="center">
-<a href="https://www.linkedin.com/in/kaan-un?fromQR=1" target="_blank"><img src="https://github.com/KaanEnt/QR_Test/blob/9a08b87ddb5d14de36b3a1a82aee56bd7f716482/output/qr_animated.gif?raw=true" alt="LinkedIn" width="150"><br><b>Let's Connect on LinkedIn</b></a>
-</td>
-
-<td align="center">
-<a href="https://discord.gg/bdCKsCNh7Z" target="_blank"><img src="https://github.com/KaanEnt/QR_Test/blob/9a08b87ddb5d14de36b3a1a82aee56bd7f716482/output/qr_animated_cursor.gif?raw=true" alt="Cursor Community" width="150"><br><b>Join the Cursor Community</b></a>
-</td>
-
-<td align="center">
-<a href="https://github.com/KaanEnt" target="_blank"><img src="https://github.com/KaanEnt/QR_Test/blob/9a08b87ddb5d14de36b3a1a82aee56bd7f716482/output/qr_animated_github.gif?raw=true" alt="Portfolio / GitHub" width="150"><br><b>Check out my Portfolio</b></a>
-</td>
-
-</tr>
-</table>
-
+  <h3>Click Me!</h3>
 </div>
+
+| <a href="https://www.linkedin.com/in/kaan-un?fromQR=1"><img src="https://raw.githubusercontent.com/KaanEnt/QR_Test/9a08b87ddb5d14de36b3a1a82aee56bd7f716482/output/qr_animated.gif" width="150"></a> | <a href="https://discord.gg/bdCKsCNh7Z"><img src="https://raw.githubusercontent.com/KaanEnt/QR_Test/9a08b87ddb5d14de36b3a1a82aee56bd7f716482/output/qr_animated_cursor.gif" width="150"></a> | <a href="https://github.com/KaanEnt"><img src="https://raw.githubusercontent.com/KaanEnt/QR_Test/9a08b87ddb5d14de36b3a1a82aee56bd7f716482/output/qr_animated_github.gif" width="150"></a> |
+| :---: | :---: | :---: |
+| **[Let's Connect on LinkedIn](https://www.linkedin.com/in/kaan-un?fromQR=1)** | **[Join the Cursor Community](https://discord.gg/bdCKsCNh7Z)** | **[Check out my Portfolio](https://github.com/KaanEnt)** |
 
 ---
 
