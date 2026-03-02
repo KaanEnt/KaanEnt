@@ -127,19 +127,33 @@ I ship products. Always working on 3-5 projects simultaneously because that's ho
 <div align="center">
   <h3>Click Me!</h3>
   
-  <a href="https://www.linkedin.com/in/kaan-un?fromQR=1" target="_blank">
-    <img src="https://github.com/KaanEnt/QR_Test/main/output/qr_animated.gif" alt="LinkedIn" width="150" />
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  
-  <a href="https://discord.gg/bdCKsCNh7Z" target="_blank">
-    <img src="https://raw.githubusercontent.com/KaanEnt/QR_Test/main/output/qr_animated_cursor.gif" alt="Cursor Community" width="150" />
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  
-  <a href="https://github.com/KaanEnt" target="_blank">
-    <img src="https://raw.githubusercontent.com/KaanEnt/QR_Test/main/output/qr_animated_github.gif" alt="Portfolio / GitHub" width="150" />
-  </a>
+  <table align="center">
+    <tr>
+      <td align="center">
+        <a href="https://www.linkedin.com/in/kaan-un?fromQR=1" target="_blank">
+          <img src="https://raw.githubusercontent.com/KaanEnt/QR_Test/main/output/qr_animated.gif" alt="LinkedIn" width="150" />
+          <br />
+          <b>Let's Connect on LinkedIn</b>
+        </a>
+      </td>
+      
+      <td align="center">
+        <a href="https://discord.gg/bdCKsCNh7Z" target="_blank">
+          <img src="https://raw.githubusercontent.com/KaanEnt/QR_Test/main/output/qr_animated_cursor.gif" alt="Cursor Community" width="150" />
+          <br />
+          <b>Join the Cursor Community</b>
+        </a>
+      </td>
+      
+      <td align="center">
+        <a href="https://github.com/KaanEnt" target="_blank">
+          <img src="https://raw.githubusercontent.com/KaanEnt/QR_Test/main/output/qr_animated_github.gif" alt="Portfolio / GitHub" width="150" />
+          <br />
+          <b>Check out my Portfolio</b>
+        </a>
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---
