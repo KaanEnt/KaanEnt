@@ -124,16 +124,22 @@ I ship products. Always working on 3-5 projects simultaneously because that's ho
 - Claude Skills
 
 ## 🔗 Let's Connect!
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kaan-un/)
-- [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/KaanEnt)
-- [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:unkaanenterprise@gmail.com)
-
-<br>
-
 <div align="center">
-  <img src="https://raw.githubusercontent.com/KaanEnt/QR_Test/main/output/qr_animated.gif" alt="Animated QR" width="200" />
+  <h3>Click Me!</h3>
+  
+  <a href="https://www.linkedin.com/in/kaan-un?fromQR=1" target="_blank">
+    <img src="https://raw.githubusercontent.com/KaanEnt/QR_Test/main/output/qr_animated.gif" alt="LinkedIn" width="150" />
+  </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/KaanEnt/QR_Test/main/output/qr_animated_cursor.gif" alt="Animated QR Cursor" width="200" />
+  
+  <a href="https://discord.gg/bdCKsCNh7Z" target="_blank">
+    <img src="https://raw.githubusercontent.com/KaanEnt/QR_Test/main/output/qr_animated_cursor.gif" alt="Cursor Community" width="150" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  
+  <a href="https://github.com/KaanEnt" target="_blank">
+    <img src="https://raw.githubusercontent.com/KaanEnt/QR_Test/main/output/qr_animated_github.gif" alt="Portfolio / GitHub" width="150" />
+  </a>
 </div>
 
 ---
