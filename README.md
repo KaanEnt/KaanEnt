@@ -22,8 +22,10 @@ I ship products. Always working on 3-5 projects simultaneously because that's ho
 
 ## 📊 Yearly Development Breakdown
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-698%20hrs%2029%20mins-darkred)
 
- Last Updated on 15/05/2026 04:07:22 UTC
+
+ Last Updated on 15/05/2026 14:25:17 UTC
 <!--END_SECTION:waka-->
 
 
