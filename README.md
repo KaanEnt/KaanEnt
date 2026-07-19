@@ -113,9 +113,9 @@ I ship products. Always working on 3-5 projects simultaneously because that's ho
 
 ## 📚 Education
 - **Honours Bachelor's of Science in Applied Mathematics, University of Ottawa**  
-  *Ottawa, ON, Canada* (Ongoing, Senior Year)
+  *Ottawa, ON, Canada*
 - **Bachelor's in Computer Science (Data Science), University of Ottawa**  
-  *Ottawa, ON, Canada* (Ongoing, Senior Year)
+  *Ottawa, ON, Canada*
 
 ## 🌱 Currently Learning
 - Quant Finance
