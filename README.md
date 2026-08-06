@@ -33,16 +33,22 @@ I work on 3–5 things simultaneously because that's how breakthroughs happen. O
   Fine-tuned AI models, researched time-series analysis, and built high-performance data pipelines for expense management and fraud detection.
 
 ## 🛠️ Recent Projects
+
+- **PowerSell: AI Sales Research Agent**  
+  *Python · Claude · Next.js · Vercel*  
+  Researches prospects, matches pain points to products, and drafts outreach. Cuts the hours sales reps spend preparing each cold email.
+
+- **Cold Email Infrastructure System**  
+  *Python · Clay · Instantly · DNS/SPF/DKIM/DMARC*  
+  Handles domain warming, inbox rotation, and dynamic copy generation. Built to reach inboxes at scale across Google and Outlook.
+
 - **KubeFlow: Dynamic CI/CD Orchestration**  
-  *Kubernetes - Python - Docker - Minikube - GitHub Actions - YAML*  
-  - Constructed a full CI/CD pipeline using integrated fragmented blueprints for a cohesive backend system.
-  - Configured to automate workflows, reducing manual labor and errors.
+  *Kubernetes · Python · Docker · Minikube · GitHub Actions · YAML*  
+  Unified fragmented blueprints into a full CI/CD pipeline that automates backend workflows and reduces manual errors.
 
 - **DataSight: Interactive Image Recognition**  
-  *Python - TensorFlow*  
-  - Built and trained image classification models using TensorFlow.
-  - Improved existing regression models to enhance the accuracy and efficiency of the image recognition process.
-  - The use of deep learning techniques allowed for more accurate identification and categorization of complex image data.
+  *Python · TensorFlow*  
+  Built and trained image classification models, then improved regression accuracy and efficiency for complex image categorization.
 
 ## 📚 Education
 - **Honours Bachelor's of Science in Applied Mathematics, University of Ottawa**  
