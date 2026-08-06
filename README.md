@@ -15,6 +15,23 @@ Before that, I founded a GTM agency, cold-called my way into every room I'm in, 
 
 I work on 3–5 things simultaneously because that's how breakthroughs happen. Open to collaborating on ambitious GTM and AI challenges.
 
+## 💼 What I've Built
+
+- **PowerSell, Traction IT** (2025–Present)  
+  AI sales enablement that researches prospects, finds pain points, matches products to needs, and writes personalized outreach. Join the waitlist at [traction.it.com/intelligence](https://traction.it.com/intelligence).
+
+- **GTM Agency, Traction IT** (2025–Present)  
+  Cold email infrastructure, outbound automation, and sales operations for B2B startups. Contacted 500+ businesses and built domain warming and dynamic sequencing systems from scratch.
+
+- **Double Down Founder Cohort & Hacker House** (2025–Present)  
+  Recruited founders by hand and ran YC-style demo days during Toronto Tech Week. Now launching a two-month hacker house residency.
+
+- **Cursor Toronto** (2024–Present)  
+  Co-organized the world's biggest Cursor event: 600+ attendees, 20+ speakers, and an integrated hackathon. Running monthly meetups and hackathons since day one.
+
+- **Data Scientist, Masraff International** (2024–2025 | New York)  
+  Fine-tuned AI models, researched time-series analysis, and built high-performance data pipelines for expense management and fraud detection.
+
 ## 📊 My GitHub Stats 
 
 <p align="center">
