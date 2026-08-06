@@ -51,16 +51,17 @@ I work on 3–5 things simultaneously because that's how breakthroughs happen. O
   Built and trained image classification models, then improved regression accuracy and efficiency for complex image categorization.
 
 ## 📚 Education
-- **Honours Bachelor's of Science in Applied Mathematics, University of Ottawa**  
-  *Ottawa, ON, Canada*
-- **Bachelor's in Computer Science (Data Science), University of Ottawa**  
-  *Ottawa, ON, Canada*
 
-## 🌱 Currently Learning
-- Quant Finance
-- LLM Memory Layer
-- RL Environments
-- Claude Skills
+- **Honours BSc Applied Mathematics + BSc Computer Science (Data Science)**, University of Ottawa
+- Wrote a 25-page quantitative finance paper on predicting market moves from public data
+- Shipped 20+ working projects and prototypes in eight months while still in school
+
+## 🌱 Currently Exploring
+
+- Sales research agents and AI outbound
+- LLM memory layers
+- Quantitative finance models
+- Reinforcement learning environments
 
 ## 🔗 Let's Connect!
 
