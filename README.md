@@ -17,37 +17,37 @@ I work on 3–5 things simultaneously because that's how breakthroughs happen. O
 
 ## 💼 What I've Built
 
-- **PowerSell, Traction IT** (2025–Present)  
+- **PowerSell, Traction IT** (2025–Present)<br>
   AI sales enablement that researches prospects, finds pain points, matches products to needs, and writes personalized outreach. Join the waitlist at [traction.it.com/intelligence](https://traction.it.com/intelligence).
 
-- **GTM Agency, Traction IT** (2025–Present)  
+- **GTM Agency, Traction IT** (2025–Present)<br>
   Cold email infrastructure, outbound automation, and sales operations for B2B startups. Contacted 500+ businesses and built domain warming and dynamic sequencing systems from scratch.
 
-- **Double Down Founder Cohort & Hacker House** (2025–Present)  
+- **Double Down Founder Cohort & Hacker House** (2025–Present)<br>
   Recruited founders by hand and ran YC-style demo days during Toronto Tech Week. Now launching a two-month hacker house residency.
 
-- **Cursor Toronto** (2024–Present)  
+- **Cursor Toronto** (2024–Present)<br>
   Co-organized the world's biggest Cursor event: 600+ attendees, 20+ speakers, and an integrated hackathon. Running monthly meetups and hackathons since day one.
 
-- **Data Scientist, Masraff International** (2024–2025 | New York)  
+- **Data Scientist, Masraff International** (2024–2025 | New York)<br>
   Fine-tuned AI models, researched time-series analysis, and built high-performance data pipelines for expense management and fraud detection.
 
 ## 🛠️ Recent Projects
 
-- **PowerSell: AI Sales Research Agent**  
-  *Python · Claude · Next.js · Vercel*  
+- **PowerSell: AI Sales Research Agent**<br>
+  *Python · Claude · Next.js · Vercel*<br>
   Researches prospects, matches pain points to products, and drafts outreach. Cuts the hours sales reps spend preparing each cold email.
 
-- **Cold Email Infrastructure System**  
-  *Python · Clay · Instantly · DNS/SPF/DKIM/DMARC*  
+- **Cold Email Infrastructure System**<br>
+  *Python · Clay · Instantly · DNS/SPF/DKIM/DMARC*<br>
   Handles domain warming, inbox rotation, and dynamic copy generation. Built to reach inboxes at scale across Google and Outlook.
 
-- **KubeFlow: Dynamic CI/CD Orchestration**  
-  *Kubernetes · Python · Docker · Minikube · GitHub Actions · YAML*  
+- **KubeFlow: Dynamic CI/CD Orchestration**<br>
+  *Kubernetes · Python · Docker · Minikube · GitHub Actions · YAML*<br>
   Unified fragmented blueprints into a full CI/CD pipeline that automates backend workflows and reduces manual errors.
 
-- **DataSight: Interactive Image Recognition**  
-  *Python · TensorFlow*  
+- **DataSight: Interactive Image Recognition**<br>
+  *Python · TensorFlow*<br>
   Built and trained image classification models, then improved regression accuracy and efficiency for complex image categorization.
 
 ## 📚 Education
