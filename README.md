@@ -63,16 +63,18 @@ I work on 3–5 things simultaneously because that's how breakthroughs happen. O
 - Quantitative finance models
 - Reinforcement learning environments
 
+## 🏆 Receipts
+
+- Clay Club Host
+- Cursor Ambassador (1+ year)
+- Lovable Ambassador
+- Co-organized a 600+ attendee Cursor event with 20+ speakers and an integrated hackathon
+- Logged 100 commits in one Saturday at the SOON hackathon
+- Attended Databricks Data + AI Summit, Figma Config, AI Engineer World's Fair, and Cursor Compile
+- Repped Cursor, Perplexity, Clay, and Lovable
+
 ## 🔗 Let's Connect!
 
-<div align="center">
-  <h3>Click Me!</h3>
-</div>
+[LinkedIn](https://www.linkedin.com/in/kaan-un) · [Traction IT](https://traction.it.com) · [GitHub](https://github.com/KaanEnt)
 
-| <a href="https://www.linkedin.com/in/kaan-un?fromQR=1"><img src="https://raw.githubusercontent.com/KaanEnt/QR_Test/9a08b87ddb5d14de36b3a1a82aee56bd7f716482/output/qr_animated.gif" width="150"></a> | <a href="https://discord.gg/bdCKsCNh7Z"><img src="https://raw.githubusercontent.com/KaanEnt/QR_Test/9a08b87ddb5d14de36b3a1a82aee56bd7f716482/output/qr_animated_cursor.gif" width="150"></a> | <a href="https://github.com/KaanEnt"><img src="https://raw.githubusercontent.com/KaanEnt/QR_Test/9a08b87ddb5d14de36b3a1a82aee56bd7f716482/output/qr_animated_github.gif" width="150"></a> |
-| :---: | :---: | :---: |
-| **[Let's Connect on LinkedIn](https://www.linkedin.com/in/kaan-un?fromQR=1)** | **[Join the Cursor Community](https://discord.gg/bdCKsCNh7Z)** | **[Check out my Portfolio](https://github.com/KaanEnt)** |
-
----
-
-Reach out, you might find out about new tech/gtm events in your area.
+If you're building in sales, GTM, or AI and want to talk, reach out.
