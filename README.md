@@ -1,14 +1,19 @@
 # Hi there, I'm Kaan 👋
 
-## 🚀 AI Engineer | Data Scientist | Full Stack Developer
+## 🚀 Founder @ Traction IT | GTM Engineer | Sales Intelligence
 
-Full stack developer shipping production LLM systems, smart contracts, and market prediction models.
+I build AI systems that make sales teams faster. Currently shipping [PowerSell](https://traction.it.com/intelligence), an AI sales enablement tool that researches prospects, finds pain points, matches products to needs, and writes outreach.
 
-Currently: Deploying multi agent AI workflows for real world automation | Training quantitative models on news sentiment and social signals | Organizing Ontario Founder Communities | Building tools that don't exist yet.
+Before that, I founded a GTM agency, cold-called my way into every room I'm in, and organized the world's biggest Cursor event with 600+ people.
 
-Data engineering at scale (sort of)
+**Currently:**
 
-I ship products. Always working on 3-5 projects simultaneously because that's how breakthroughs happen. Open to collaborating on ambitious technical challenges.
+- Shipping PowerSell (waitlist live)
+- Running [Double Down](https://linkedin.com/in/kaan-un), a founder community in Toronto
+- Hosting Clay Club | Cursor Ambassador | Lovable Ambassador
+- Building cold email infrastructure, research agents, and outbound automation
+
+I work on 3–5 things simultaneously because that's how breakthroughs happen. Open to collaborating on ambitious GTM and AI challenges.
 
 ## 📊 My GitHub Stats 
 
