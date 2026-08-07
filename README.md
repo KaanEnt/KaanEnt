@@ -15,6 +15,28 @@ Before that, I founded a GTM agency, cold-called my way into every room I'm in, 
 
 I work on 3–5 things simultaneously because that's how breakthroughs happen. Open to collaborating on ambitious GTM and AI challenges.
 
+## 📊 GitHub Activity
+
+<p align="center">
+  <a href="https://github-readme-beta-rouge.vercel.app?user=KaanEnt&theme=dark&ring=FF0000&fire=FF0000&currStreakNum=FF0000&sideNums=FF0000&currStreakLabel=FF0000&sideLabels=FFFFF&dates=FFFFF&border=FF0000&stroke=FF0000&bg_color=00000000">
+    <img src="https://github-readme-beta-rouge.vercel.app?user=KaanEnt&theme=dark&ring=FF0000&fire=FF0000&currStreakNum=FF0000&sideNums=FF0000&currStreakLabel=FF0000&sideLabels=FFFFF&dates=FFFFF&border=FF0000&stroke=FF0000&bg_color=00000000" alt="Kaan's GitHub streak" />
+  </a>
+</p>
+
+![Recent GitHub activity](https://github-readme-activity-graph.vercel.app/graph?username=KaanEnt&theme=react-dark&hide_border=true&area=true&line=FF0000&point=FF0000&area_color=FF0000&color=FF0000)
+
+### Yearly Development Breakdown
+
+<!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-784%20hrs%2019%20mins-darkred)
+
+Last Updated on 02/08/2026 03:37:02 UTC
+<!--END_SECTION:waka-->
+
+### Intensity Graph
+
+![GitHub contributions](https://gh-heat.anishroy.com/api/KaanEnt/svg?theme=red&darkMode=true&cellSize=15&transparency=true)
+
 ## 💼 What I've Built
 
 - **PowerSell, Traction IT** (2025–Present)<br>
