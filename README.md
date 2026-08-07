@@ -161,6 +161,12 @@ Last Updated on 02/08/2026 03:37:02 UTC
 
 ## 🔗 Let's Connect!
 
-[LinkedIn](https://www.linkedin.com/in/kaan-un) · [Traction IT](https://traction.it.com) · [GitHub](https://github.com/KaanEnt)
+<div align="center">
+  <h3>Click Me!</h3>
+</div>
 
-If you're building in sales, GTM, or AI and want to talk, reach out.
+| <a href="https://www.linkedin.com/in/kaan-un?fromQR=1"><img src="https://raw.githubusercontent.com/KaanEnt/QR_Test/9a08b87ddb5d14de36b3a1a82aee56bd7f716482/output/qr_animated.gif" alt="LinkedIn QR code" width="150"></a> | <a href="https://discord.gg/bdCKsCNh7Z"><img src="https://raw.githubusercontent.com/KaanEnt/QR_Test/9a08b87ddb5d14de36b3a1a82aee56bd7f716482/output/qr_animated_cursor.gif" alt="Cursor community QR code" width="150"></a> | <a href="https://github.com/KaanEnt"><img src="https://raw.githubusercontent.com/KaanEnt/QR_Test/9a08b87ddb5d14de36b3a1a82aee56bd7f716482/output/qr_animated_github.gif" alt="GitHub QR code" width="150"></a> |
+| :---: | :---: | :---: |
+| **[LinkedIn](https://www.linkedin.com/in/kaan-un?fromQR=1)** | **[Cursor Community](https://discord.gg/bdCKsCNh7Z)** | **[GitHub](https://github.com/KaanEnt)** |
+
+If you're building in sales, GTM, or AI and want to talk, reach out through [LinkedIn](https://www.linkedin.com/in/kaan-un) or [Traction IT](https://traction.it.com).
