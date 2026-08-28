@@ -23,7 +23,7 @@ I work on 3–5 things simultaneously because that's how breakthroughs happen. O
   </a>
 </p>
 
-![Recent GitHub activity](https://github-readme-activity-graph.vercel.app/graph?username=KaanEnt&theme=react-dark&hide_border=true&area=true&line=FF0000&point=FF0000&area_color=FF0000&color=FF0000)
+![Recent GitHub activity](https://kaanent-activity-graph.vercel.app/graph?username=KaanEnt&theme=react-dark&hide_border=true&area=true&line=FF0000&point=FF0000&area_color=FF0000&color=FF0000)
 
 ### Yearly Development Breakdown
 
