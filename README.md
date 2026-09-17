@@ -153,10 +153,9 @@ I work on 3–5 things simultaneously because that's how breakthroughs happen. O
 ## 🏆 Receipts
 
 - Clay Club Host
-- Cursor Ambassador (1+ year)
+- SpaceXAI / Cursor Ambassador (~2 year)
 - Lovable Ambassador
 - Co-organized a 600+ attendee Cursor event with 20+ speakers and an integrated hackathon
-- Logged 100 commits in one Saturday at the SOON hackathon
 - Attended Databricks Data + AI Summit, Figma Config, AI Engineer World's Fair, and Cursor Compile
 - Repped Cursor, Perplexity, Clay, and Lovable
 
