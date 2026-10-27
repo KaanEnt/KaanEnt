@@ -1,6 +1,6 @@
 # Hi there, I'm Kaan 👋
 
-## 🚀 Founder @ Traction IT | GTM Engineer | Sales Intelligence
+## 🚀 Founder @ Traction | GTM Engineer | Sales Intelligence
 
 I build AI systems that make sales teams faster. Currently shipping [PowerSell](https://traction.it.com/intelligence), an AI sales enablement tool that researches prospects, finds pain points, matches products to needs, and writes outreach.
 
@@ -40,10 +40,10 @@ I work on 3–5 things simultaneously because that's how breakthroughs happen. O
 
 ## 💼 What I've Built
 
-- **PowerSell, Traction IT** (2025–Present)<br>
+- **PowerSell, Traction** (2025–Present)<br>
   AI sales enablement that researches prospects, finds pain points, matches products to needs, and writes personalized outreach. Join the waitlist at [traction.it.com/intelligence](https://traction.it.com/intelligence).
 
-- **GTM Agency, Traction IT** (2025–Present)<br>
+- **GTM Agency, Traction** (2025–Present)<br>
   Cold email infrastructure, outbound automation, and sales operations for B2B startups. Contacted 500+ businesses and built domain warming and dynamic sequencing systems from scratch.
 
 - **Double Down Founder Cohort & Hacker House** (2025–Present)<br>
@@ -169,4 +169,4 @@ I work on 3–5 things simultaneously because that's how breakthroughs happen. O
 | :---: | :---: | :---: |
 | **[LinkedIn](https://www.linkedin.com/in/kaan-un?fromQR=1)** | **[Cursor Community](https://discord.gg/bdCKsCNh7Z)** | **[GitHub](https://github.com/KaanEnt)** |
 
-If you're building in sales, GTM, or AI and want to talk, reach out through [LinkedIn](https://www.linkedin.com/in/kaan-un) or [Traction IT](https://traction.it.com).
+If you're building in sales, GTM, or AI and want to talk, reach out through [LinkedIn](https://www.linkedin.com/in/kaan-un) or [Traction](https://traction.it.com).
