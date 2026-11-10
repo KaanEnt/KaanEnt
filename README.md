@@ -1,6 +1,6 @@
 # Hi there, I'm Kaan 👋
 
-## 🚀 Founder @ Traction | GTM Engineer | Sales Intelligence
+## Founder of Traction. GTM engineer.
 
 I build AI systems that make sales teams faster. Currently shipping [PowerSell](https://traction.it.com/intelligence), an AI sales enablement tool that researches prospects, finds pain points, matches products to needs, and writes outreach.
 
