@@ -9,7 +9,6 @@ Before that, I founded a GTM agency, cold-called my way into every room I'm in, 
 **Currently:**
 
 - Shipping PowerSell (waitlist live)
-- Running [Double Down](https://linkedin.com/in/kaan-un), a founder community in Toronto
 - Hosting Clay Club | Cursor Ambassador | Lovable Ambassador
 - Building cold email infrastructure, research agents, and outbound automation
 
@@ -45,9 +44,6 @@ I work on 3–5 things simultaneously because that's how breakthroughs happen. O
 
 - **GTM Agency, Traction** (2025–Present)<br>
   Cold email infrastructure, outbound automation, and sales operations for B2B startups. Contacted 500+ businesses and built domain warming and dynamic sequencing systems from scratch.
-
-- **Double Down Founder Cohort & Hacker House** (2025–Present)<br>
-  Recruited founders by hand and ran YC-style demo days during Toronto Tech Week. Now launching a two-month hacker house residency.
 
 - **Cursor Toronto** (2024–Present)<br>
   Co-organized the world's biggest Cursor event: 600+ attendees, 20+ speakers, and an integrated hackathon. Running monthly meetups and hackathons since day one.
