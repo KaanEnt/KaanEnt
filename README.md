@@ -48,8 +48,8 @@ All my time goes into Traction. If you sell B2B and want more conversations, tal
 - **Events** (2024–Present)<br>
   I run Grokbot meetups (formerly Cursor) and Clay Clubs in Toronto, and host hackathons. I keep track of every tech event in the city, so if you want in, email me at ops@kaanent.com.
 
-- **Data Scientist, Masraff International** (2024–2025 | New York)<br>
-  Fine-tuned AI models, researched time-series analysis, and built high-performance data pipelines for expense management and fraud detection.
+- **Data Scientist, Masraff International** (2024–2025, New York, remote)<br>
+  Built the models and data pipelines behind expense tracking and fraud detection.
 
 ## 🛠️ Recent Projects
 
