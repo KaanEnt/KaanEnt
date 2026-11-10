@@ -61,9 +61,9 @@ All my time goes into Traction. If you sell B2B and want more conversations, tal
   *Python · Clay · Instantly · DNS/SPF/DKIM/DMARC*<br>
   Handles domain warming, inbox rotation, and dynamic copy generation. Built to reach inboxes at scale across Google and Outlook.
 
-- **KubeFlow: Dynamic CI/CD Orchestration**<br>
-  *Kubernetes · Python · Docker · Minikube · GitHub Actions · YAML*<br>
-  Unified fragmented blueprints into a full CI/CD pipeline that automates backend workflows and reduces manual errors.
+- **Quantara: Forecasting Trends from Public Data**<br>
+  *Python · CatBoost · LightGBM · FinBERT · Gemini*<br>
+  Type a topic, and it pulls public data, scores the signal and shows where the trend is heading. Written up in a 25 page paper.
 
 - **DataSight: Interactive Image Recognition**<br>
   *Python · TensorFlow*<br>
@@ -136,7 +136,6 @@ All my time goes into Traction. If you sell B2B and want more conversations, tal
 ## 📚 Education
 
 - **Honours BSc Applied Mathematics + BSc Computer Science (Data Science)**, University of Ottawa
-- Wrote a 25-page quantitative finance paper on predicting market moves from public data
 
 ## 🌱 Currently Exploring
 
