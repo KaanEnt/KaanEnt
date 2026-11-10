@@ -144,14 +144,6 @@ All my time goes into Traction. If you sell B2B and want more conversations, tal
 - Quantitative finance models
 - Reinforcement learning environments
 
-## 🏆 Receipts
-
-- Clay Club Host
-- SpaceXAI / Cursor Ambassador (~2 year)
-- Co-organized a 600+ attendee Cursor event with 20+ speakers and an integrated hackathon
-- Attended Databricks Data + AI Summit, Figma Config, AI Engineer World's Fair, and Cursor Compile
-- Cursor, Clay, Lovable (ex) and Perplexity (ex) ambassador
-
 ## 🔗 Let's Connect!
 
 <div align="center">
