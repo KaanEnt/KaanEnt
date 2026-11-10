@@ -39,16 +39,16 @@ All my time goes into Traction. If you sell B2B and want more conversations, tal
 
 ## 💼 What I've Built
 
-- **PowerSell, Traction** (2025–Present)<br>
+- **PowerSell, Traction** (2025 to now)<br>
   AI sales enablement that researches prospects, finds pain points, matches products to needs, and writes personalized outreach. Join the waitlist at [traction.it.com/intelligence](https://traction.it.com/intelligence).
 
-- **GTM Agency, Traction** (2025–Present)<br>
+- **GTM Agency, Traction** (2025 to now)<br>
   Marketing and outreach for dealers, distributors and resellers. We find buyers, qualify them, and reach out for you.
 
-- **Events** (2024–Present)<br>
+- **Events** (2024 to now)<br>
   I run Grokbot meetups (formerly Cursor) and Clay Clubs in Toronto, and host hackathons. I keep track of every tech event in the city, so if you want in, message me on [LinkedIn](https://www.linkedin.com/in/kaan-un).
 
-- **Data Scientist, Masraff International** (2024–2025, New York, remote)<br>
+- **Data Scientist, Masraff International** (2024 to 2025, New York, remote)<br>
   Built the models and data pipelines behind expense tracking and fraud detection.
 
 ## 🛠️ Recent Projects
