@@ -65,9 +65,9 @@ All my time goes into Traction. If you sell B2B and want more conversations, tal
   *Python · CatBoost · LightGBM · FinBERT · Gemini*<br>
   Type a topic, and it pulls public data, scores the signal and shows where the trend is heading. Written up in a 25 page paper.
 
-- **DataSight: Interactive Image Recognition**<br>
-  *Python · TensorFlow*<br>
-  Built and trained image classification models, then improved regression accuracy and efficiency for complex image categorization.
+- **Market Research**<br>
+  *Python · Apollo · Clay · Web scraping*<br>
+  A fully automated system that scrapes job boards to find companies hiring for specific roles, then finds the right contacts in Apollo. Plus Google and Meta ad audiences built in Clay from a client's best customers.
 
 ## ✨ Stack
 
