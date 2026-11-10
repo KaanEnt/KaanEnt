@@ -12,7 +12,7 @@ I cold called my way into every room I'm in, and organized the world's biggest C
 - Clay Club host, Build Ambassador at Cursor
 - Building the systems behind Traction: finding buyers, qualifying them, reaching out
 
-I work on 3–5 things simultaneously because that's how breakthroughs happen. Open to collaborating on ambitious GTM and AI challenges.
+All my time goes into Traction. If you sell B2B and want more conversations, talk to me.
 
 ## 📊 GitHub Activity
 
