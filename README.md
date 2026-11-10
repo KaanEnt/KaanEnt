@@ -43,7 +43,7 @@ All my time goes into Traction. If you sell B2B and want more conversations, tal
   AI sales enablement that researches prospects, finds pain points, matches products to needs, and writes personalized outreach. Join the waitlist at [traction.it.com/intelligence](https://traction.it.com/intelligence).
 
 - **GTM Agency, Traction** (2025–Present)<br>
-  Cold email infrastructure, outbound automation, and sales operations for B2B startups. Contacted 500+ businesses and built domain warming and dynamic sequencing systems from scratch.
+  Marketing and outreach for dealers, distributors and resellers. We find buyers, qualify them, and reach out for you.
 
 - **Cursor Toronto** (2024–Present)<br>
   Co-organized the world's biggest Cursor event: 600+ attendees, 20+ speakers, and an integrated hackathon. Running monthly meetups and hackathons since day one.
