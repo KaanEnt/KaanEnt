@@ -135,7 +135,8 @@ All my time goes into Traction. If you sell B2B and want more conversations, tal
 
 ## 📚 Education
 
-- **Honours BSc Applied Mathematics + BSc Computer Science (Data Science)**, University of Ottawa
+- **Honours BSc Mathematics**, University of Ottawa
+- **Honours BSc Computer Science (Data Science option)**, University of Ottawa
 
 ## 🌱 Currently Exploring
 
