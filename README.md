@@ -45,8 +45,8 @@ All my time goes into Traction. If you sell B2B and want more conversations, tal
 - **GTM Agency, Traction** (2025–Present)<br>
   Marketing and outreach for dealers, distributors and resellers. We find buyers, qualify them, and reach out for you.
 
-- **Cursor Toronto** (2024–Present)<br>
-  Co-organized the world's biggest Cursor event: 600+ attendees, 20+ speakers, and an integrated hackathon. Running monthly meetups and hackathons since day one.
+- **Events** (2024–Present)<br>
+  I run Grokbot meetups (formerly Cursor) and Clay Clubs in Toronto, and host hackathons. I keep track of every tech event in the city, so if you want in, email me at ops@kaanent.com.
 
 - **Data Scientist, Masraff International** (2024–2025 | New York)<br>
   Fine-tuned AI models, researched time-series analysis, and built high-performance data pipelines for expense management and fraud detection.
