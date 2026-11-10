@@ -150,7 +150,7 @@ All my time goes into Traction. If you sell B2B and want more conversations, tal
 - SpaceXAI / Cursor Ambassador (~2 year)
 - Co-organized a 600+ attendee Cursor event with 20+ speakers and an integrated hackathon
 - Attended Databricks Data + AI Summit, Figma Config, AI Engineer World's Fair, and Cursor Compile
-- Repped Cursor, Perplexity, Clay, and Lovable
+- Cursor, Clay, Lovable (ex) and Perplexity (ex) ambassador
 
 ## 🔗 Let's Connect!
 
