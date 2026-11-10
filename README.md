@@ -137,12 +137,10 @@ I work on 3–5 things simultaneously because that's how breakthroughs happen. O
 
 - **Honours BSc Applied Mathematics + BSc Computer Science (Data Science)**, University of Ottawa
 - Wrote a 25-page quantitative finance paper on predicting market moves from public data
-- Shipped 20+ working projects and prototypes in eight months while still in school
 
 ## 🌱 Currently Exploring
 
 - Sales research agents and AI outbound
-- LLM memory layers
 - Quantitative finance models
 - Reinforcement learning environments
 
@@ -150,7 +148,6 @@ I work on 3–5 things simultaneously because that's how breakthroughs happen. O
 
 - Clay Club Host
 - SpaceXAI / Cursor Ambassador (~2 year)
-- Lovable Ambassador
 - Co-organized a 600+ attendee Cursor event with 20+ speakers and an integrated hackathon
 - Attended Databricks Data + AI Summit, Figma Config, AI Engineer World's Fair, and Cursor Compile
 - Repped Cursor, Perplexity, Clay, and Lovable
