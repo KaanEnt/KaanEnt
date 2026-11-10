@@ -2,7 +2,7 @@
 
 ## Founder of Traction. GTM engineer.
 
-I build AI systems that make sales teams faster. Currently shipping [PowerSell](https://traction.it.com/intelligence), an AI sales enablement tool that researches prospects, finds pain points, matches products to needs, and writes outreach.
+I watch for buying signals, like a new location, a new product line or a hiring spree, and turn them into conversations for my clients. Currently shipping [PowerSell](https://traction.it.com/intelligence).
 
 Before that, I founded a GTM agency, cold-called my way into every room I'm in, and organized the world's biggest Cursor event with 600+ people.
 
