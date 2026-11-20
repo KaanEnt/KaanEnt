@@ -27,10 +27,10 @@ All my time goes into Traction. If you sell B2B and want more conversations, tal
 ### Yearly Development Breakdown
 
 <!--START_SECTION:waka-->
-![Last 12 Months](http://img.shields.io/badge/Last%2012%20Months-427%20hrs%2011%20mins-darkred)
+![Last 12 Months](http://img.shields.io/badge/Last%2012%20Months-427%20hrs%2025%20mins-darkred)
 
 
- Last Updated on 20/11/2026 06:50:13 UTC
+ Last Updated on 20/11/2026 19:54:18 UTC
 <!--END_SECTION:waka-->
 
 ### Intensity Graph
